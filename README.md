@@ -1,2 +1,2 @@
 # Real-Estate-Price-Prediction
-Real Estate Price Prediction via Model Training-Testing
+As we all know real estate is a high-risk, high-reward market it can make you rich or drain your savings in an instant. Whether it's for investment, tax benefits or future financial security we all want to put our money in the right place. But how do we get to know if a property is worth buying today? Will its value skyrocket or crash tomorrow? This is where Real Estate Price Prediction comes in! By analyzing factors like location, market trends and amenities.This project helps buyers, sellers and investors make smarter, data-driven decisions. With accurate price forecasts we can invest with confidence, minimize risks and stay ahead in the competitive real estate market.
